@@ -1,0 +1,24 @@
+{"compile":[
+["C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\ex90.c", "C:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\dist\\mingw64\\bin\\gcc.exe -c  -w -mno-ms-bitfields -DWIN32_LEAN_AND_MEAN  -IC:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\lib -o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\ex90.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\ex90.c"],
+["C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_nigui.c", "C:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\dist\\mingw64\\bin\\gcc.exe -c  -w -mno-ms-bitfields -DWIN32_LEAN_AND_MEAN  -IC:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\lib -o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_nigui.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_nigui.c"]
+],
+"link":[
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\ex90.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_system.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_nigui.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_windows.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_math.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_os.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_strutils.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_parseutils.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_algorithm.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_times.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_winlean.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_dynlib.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_ospaths.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_unicode.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_tables.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_hashes.o"
+],
+"linkcmd": "C:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\dist\\mingw64\\bin\\gcc.exe   -o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\ex90.exe  C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\ex90.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_system.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_nigui.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\nigui_windows.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_math.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_os.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_strutils.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_parseutils.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_algorithm.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_times.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_winlean.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_dynlib.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_ospaths.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_unicode.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_tables.o C:\\Users\\hkota\\@Programming_projects\\Nim\\gui_test\\nimcache\\stdlib_hashes.o    "
+}

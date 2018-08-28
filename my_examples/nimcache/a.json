@@ -1,0 +1,25 @@
+{"compile":[
+]
+],
+"link":[
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\a.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_system.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_sharedlist.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_locks.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_nigui.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_windows.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_math.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_os.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_strutils.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_parseutils.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_algorithm.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_times.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_winlean.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_dynlib.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_ospaths.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_unicode.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_tables.o",
+"C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_hashes.o"
+],
+"linkcmd": "C:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\dist\\mingw64\\bin\\gcc.exe   -o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\a.exe  C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\a.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_system.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_sharedlist.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_locks.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_nigui.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_windows.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_math.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_os.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_strutils.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_parseutils.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_algorithm.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_times.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_winlean.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_dynlib.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_ospaths.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_unicode.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_tables.o C:\\Users\\hkota\\@Programming_projects\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_hashes.o    "
+}
