@@ -1,0 +1,23 @@
+{"compile":[
+]
+],
+"link":[
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\mytest.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_system.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_nigui.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_windows.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_math.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_os.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_strutils.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_parseutils.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_algorithm.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_times.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_winlean.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_dynlib.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_ospaths.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_unicode.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_tables.o",
+"G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_hashes.o"
+],
+"linkcmd": "C:\\Nim\\nim-0.18.0_x64\\nim-0.18.0\\dist\\mingw64\\bin\\gcc.exe   -o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\mytest.exe  G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\mytest.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_system.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_nigui.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\nigui_windows.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_math.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_os.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_strutils.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_parseutils.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_algorithm.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_times.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_winlean.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_dynlib.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_ospaths.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_unicode.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_tables.o G:\\Programming\\Project\\Nim\\nigui_examples\\my_examples\\nimcache\\stdlib_hashes.o    "
+}

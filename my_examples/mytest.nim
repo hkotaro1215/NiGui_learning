@@ -6,14 +6,20 @@ var window = newWindow("NiGui Example")
 window.width = 600
 window.height = 400
 
-var container = newLayoutContainer(Layout_Vertical)
-window.add(container)
+var mainContainer = newLayoutContainer(Layout_Vertical)
+window.add(mainContainer)
+
+var buttonContainer = newLayoutContainer(Layout_Horizontal)
+mainContainer.add(buttonContainer)
 
 var button = newButton("Button 1")
-container.add(button)
+buttonContainer.add(button)
+
+var button2 = newButton("Button 2")
+buttonContainer.add(button2)
 
 var textArea = newTextArea()
-container.add(textArea)
+mainContainer.add(textArea)
 
 button.onClick = proc(event: ClickEvent) =
 
